@@ -1,0 +1,30 @@
+{
+    "travel_server": {
+        "transport": "streamable_http",
+        "url": "https://mcp.kiwi.com"
+    },
+    "wiki_server": {
+        "transport": "streamable_http",
+        "url": "https://mcp.deepwiki.com/mcp"
+    },
+    "ai_data_server": {
+        "transport": "streamable_http",
+        "url": "https://mcp.exa.ai/mcp"
+    },
+    "data_index_server": {
+        "transport": "streamable_http",
+        "url": "https://index.mintlify.com"
+    },
+    "finance_server": {
+        "transport": "streamable_http",
+        "url": "https://wealthville.net/mcp"
+    },
+    "currency_convert_server": {
+        "transport": "streamable_http",
+        "url": "https://currency-mcp.wesbos.com/mcp"
+    },
+    "time_server": {
+        "transport": "streamable_http",
+        "url": "https://worldclock.pro/mcp"
+    }
+}
