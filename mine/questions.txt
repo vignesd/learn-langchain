@@ -1,0 +1,35 @@
+[
+    "Convert 500 USD to INR.",
+    "Convert 100 EUR to USD and then convert the result to INR.",
+    "Convert 250 GBP to EUR and INR.",
+    "What is the latest USD to INR exchange rate?",
+    "What was the USD to INR rate on 2026-01-01?",
+    "Compare the USD to INR exchange rate over the last 30 days.",
+    "Convert 1000 JPY to INR and show the exchange rate used.",
+    "I have 500 EUR. How much is that in USD and INR?",
+    "Convert 100 USD to INR using today's exchange rate.",
+    "Find the current EUR to USD rate and convert 250 EUR."
+]
+
+Main Agent → Travel Agent → Currency Agent + World Clock Agent → Main Agent
+[
+    "Find a flight from Dubai to London, convert the price to INR, and tell me the departure and arrival times in London local time.",
+    "Find a flight from New York to Tokyo, convert the price to USD, and show the departure time in Tokyo time.",
+    "Find a flight from Singapore to Paris, convert the price to INR, and tell me the current time in Paris.",
+    "Find 2 flights from Delhi to London, convert their prices to USD, and show the departure and arrival times in the local time zones.",
+    "Find a flight from Mumbai to New York, convert the price to INR, and tell me the current time in New York and Mumbai."
+]
+
+
+[
+    "What time is it in Tokyo right now?",
+    "What time is it now in Tokyo, London, and New York?",
+    "If it is 9 AM in New York, what time is it in Tokyo?",
+    "What is the local time at 48.85, 2.35?",
+    "When does daylight saving time change in London this year?",
+    "Find cities called San Jose.",
+    "What time is it right now in Singapore?",
+    "What time is it right now in India, Japan, and the UK?",
+    "If it is 10 AM in Tokyo, what time is it in New York?",
+    "Convert 3 PM London time to India time."
+]
